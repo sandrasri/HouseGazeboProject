@@ -7,6 +7,8 @@
    git clone
   
 2. **Run the Simulation:**
+   
    cd world
+   
    gazebo StarShip
    
